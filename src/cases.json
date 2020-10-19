@@ -1,0 +1,76 @@
+{"cases" :[
+    {
+        "id": "1",
+        "name":"Открой когда нечем заняться",
+        "image":"https://samolet.media/images/stories/3206-b.jpg",
+        
+        "content": {
+            "type":"link",
+            "title": "Развлечься",
+            "link": "https://minesweeper.online/"
+        }
+    },
+    {
+        "id": "7",
+        "name":"Открой когда соскучишься по мне",
+        "image":"data:image/jpeg;base64,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",
+        
+        "content": {
+            "type":"link",
+            "title": "Перестать скучать!",
+            "link": "https://t.me/hanna_mekshun"
+        }
+    },
+    {
+        "id": "2",
+        "name":"Открой когда захочешь цьом",
+        "image":"https://memepedia.ru/wp-content/uploads/2017/11/%D1%82%D1%8C%D0%BC%D0%BE%D0%BA-%D1%86%D0%BC%D0%BE%D0%BA-1.jpg",
+        
+        "content": {
+            "type":"text",
+            "title": "ЦЬМОК ЗАЙКУ*"
+        }
+    },
+    {
+        "id": "3",
+        "name":"Открой когда будет грустно",
+        "image":"https://cs7.pikabu.ru/post_img/2018/11/08/9/1541689867124343089.jpg",
+        
+        "content": {
+            "type":"link",
+            "title": "Развеселиться",
+            "link": "https://www.google.com/search?q=%D1%81%D0%B8%D0%B1%D0%B0+%D0%B8%D0%BD%D1%83&rlz=1C1GCEU_en-GBUA916UA916&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiwmej48MDsAhVCkMMKHcZeDxoQ_AUoAXoECCQQAw&biw=1536&bih=722"
+        }
+    },
+    {
+        "id": "5",
+        "name":"Открой когда не знаешь что мне подарить",
+        "image":"https://image.freepik.com/free-vector/adopt-a-pet-cute-dog-in-a-box-on-white-background_113065-728.jpg",
+        
+        "content": {
+            "type":"link",
+            "title": "Выбрать подарок",
+            "link": "https://e-pandora.ua/"
+        }
+    },    {
+        "id": "4",
+        "name":"Открой прямо сейчас!!!",
+        "image":"https://83.img.avito.st/640x480/8066743983.jpg",
+        
+        "content": {
+            "type":"text",
+            "title": "Я тебя мур-мур-мур ♥"
+        }
+    },
+     {
+        "id": "6",
+        "name":"Открой когда будет холодно",
+        "image":"https://lapkins.ru/upload/iblock/11e/11ea73b02406f137742271272c2812e5.jpg",        
+        "content": {
+            "type":"link",
+            "title": "Согреться!",
+            "link": "https://t.me/c/1292128411/2"
+        }
+    }
+]
+}
